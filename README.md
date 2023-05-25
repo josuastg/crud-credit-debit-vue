@@ -1,4 +1,4 @@
-# crud-student
+# crud-credit-debit-vue
 
 ## Project setup
 ```

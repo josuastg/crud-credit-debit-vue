@@ -135,7 +135,7 @@ export default {
   name: "App",
   components: {},
   mounted() {
-    this.getAllTransaction();
+    // this.getAllTransaction();
   },
   methods: {
     formatPriceRP(price) {
